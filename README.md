@@ -11,4 +11,4 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahraaa2004&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Zahraaa2004&show_icons=true&theme=tokyonight)
