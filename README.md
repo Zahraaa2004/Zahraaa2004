@@ -11,8 +11,4 @@
 
 ---
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zahraaa2004&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zahraaa2004&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Zahraaa2004&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zahraaa2004&theme=jolly)
