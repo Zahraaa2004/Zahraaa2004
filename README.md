@@ -11,4 +11,4 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Zahraaa2004&show_icons=true&theme=tokyonight)   ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zahraaa2004&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Zahraaa2004&show_icons=true&theme=tokyonight)        ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zahraaa2004&layout=compact&theme=tokyonight)
