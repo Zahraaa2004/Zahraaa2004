@@ -23,7 +23,7 @@ I actively seek new challenges and believe in learning by doing. Always open to 
 ## Education
 B.Sc. in Computer Engineering — University of Tabriz (Sep 2023 – Present)
 
-## 🌍 Languages
+## Languages
 English ★★★★☆ · French ★★★☆☆
 
 <div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zahraaa2004&show_icons=true&count_private=true&hide_border=true&title_color=1a1a2e&icon_color=1a1a2e&text_color=333&bg_color=ffffff" alt="GitHub Stats" width="48%"/><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=einmensch1847&layout=compact&hide_border=true&title_color=1a1a2e&text_color=333&bg_color=ffffff" alt="Top Languages" width="48%"/></div>
