@@ -41,8 +41,11 @@ English ★★★★☆ · French ★★★☆☆
 
 ## Contact
 
- 📧 Email | z.dakhili2303@gmail.com 
- 💼 LinkedIn | zahra-dakhili
- 🐈️ GitHub | @Zahraaa2004
- 📍 Location | Tabriz, Iran 
+📧 **Email** | [z.dakhili2303@gmail.com](mailto:z.dakhili2303@gmail.com)
+
+💼 **LinkedIn** | [zahra-dakhili](https://www.linkedin.com/in/zahra-dakhili)
+
+🐈️ **GitHub** | [@Zahraaa2004](https://github.com/Zahraaa2004)
+
+📍 **Location** | Tabriz, Iran
  
