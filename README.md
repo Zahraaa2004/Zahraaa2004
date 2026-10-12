@@ -1,10 +1,15 @@
+<div align="center">
 
+# Zahra Dakhili
+ 
 ### Computer Engineering student at Tabriz University💻✨
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-zahradakhili.com-6A5ACD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zahradakhili.com)
 [![Gmail](https://img.shields.io/badge/Gmail-z.dakhili2303%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:z.dakhili2303@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zahra--dakhili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zahra-dakhili)
 [![Location](https://img.shields.io/badge/Location-Tabriz%2C%20Iran-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Tabriz+Iran)
+
+</div>
 
 ## About Me
 
@@ -37,7 +42,10 @@ I also work with JavaScript, React.js, and relational databases like PostgreSQL,
 ---
 
 ## Education
-B.Sc. in Computer Engineering — University of Tabriz (Sep 2023 – Present)
+B.Sc. Computer Engineering — University of Tabriz (Sep 2023 – Present)<br>
+GPA 16.55/20 · 7th Semester
+
+ *Algorithms & Data Structures, Artificial Intelligence, Software Engineering*
 
 ## Languages
 English ★★★★☆ · French ★★★☆☆
